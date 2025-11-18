@@ -5,8 +5,6 @@
 
 <h1>Blossom by blossom the spring begins.</h1>
 
-<p style="font-size: 18px; font-style: italic; color: #2a7f62;">
-  "One step at a time."
-</p>
+
 
 </div>
