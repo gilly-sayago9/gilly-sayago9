@@ -5,17 +5,11 @@
 
   <h1>Blossom by blossom the spring begins.</h1>
 
-  <!-- Steam Link with Icon -->
+  <!-- Simple Steam-style link -->
   <a href="https://steamcommunity.com/profiles/76561199261724667/" 
-     target="_blank"
-     style="text-decoration:none; font-size:20px; display:flex; align-items:center; gap:8px; justify-content:center; margin-top:10px;">
-
-    
-
-  
+     target="_blank" 
+     style="font-size:20px; text-decoration:none; margin-top:10px; display:inline-block;">
+    🎮 My Steam Profile
   </a>
-  <img src="https://community.cloudflare.steamstatic.com/public/shared/images/login/social_steam.png"
-         alt="Steam"
-         style="width:24px; height:24px;" />
 
 </div>
