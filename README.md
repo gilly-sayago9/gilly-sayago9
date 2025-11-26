@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Spring GIF -->
-<img src="spring.gif" alt="Spring" style="width:100%; max-width:600px; border-radius:15px;" />
+  <!-- Spring GIF -->
+  <img src="spring.gif" alt="Spring" style="width:100%; max-width:600px; border-radius:15px;" />
 
-<h1>Blossom by blossom the spring begins.</h1>
+  <h1>Blossom by blossom the spring begins.</h1>
 
-<div align="center">
-  <a href="https://github.com/gilly-sayago9">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilly-sayago9&layout=compact&langs_count=7&theme=github_dark" />
+  <!-- Steam Link with Icon -->
+  <a href="https://steamcommunity.com/profiles/76561199261724667/" target="_blank" 
+     style="text-decoration:none; font-size:20px; display:flex; align-items:center; gap:8px; justify-content:center; margin-top:10px;">
+    
+    <img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_logo.png" 
+         alt="Steam" 
+         style="width:24px; height:24px; border-radius:4px;" />
+
+    <span>My Steam Profile</span>
   </a>
-</div>
 
 </div>
